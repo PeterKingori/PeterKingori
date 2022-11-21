@@ -6,8 +6,6 @@ Android and Kotlin Developer
 
 I have been learning how to code for 3 years, initially starting with the basics of web development and now focusing more on Android development using Kotlin and Jetpack libraries including Jetpack compose.
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [kpndegwa@gmail.com](mailto:kpndegwa@gmail.com)
 * 🚀  I'm currently working on [My Car Maintenance App](http://github.com/PeterKingori/My-Car-Maintenance)
 * 🧠  I'm learning Jetpack compose
 * ⚡  I love using JetBrains Academy to learn and their Kotlin basics track has been amazing and I've been learning a lot.
