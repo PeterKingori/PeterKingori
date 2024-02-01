@@ -7,7 +7,7 @@ Android and Kotlin Developer
 I have been learning how to code for 3 years, initially starting with the basics of web development and now focusing more on Android development using Kotlin and Jetpack libraries including Jetpack compose.
 
 * 🚀  The project that best shows my Android development skills is [My Car Maintenance App](http://github.com/PeterKingori/My-Car-Maintenance)
-* 🧠  Currently learning Jetpack compose and web development.
+* 🧠  Currently learning Python.
 
 ### Skills
 
